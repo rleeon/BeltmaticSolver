@@ -4,6 +4,6 @@ This is simple, the script tells you to select which operations you want to perf
 
 If you select a one number you need place a space between the other number like "1 2 3".
 
-![Foto1](PicsandGifs/foto1.gif)
+![Foto1](PicsandGifs/foto1.png)
 
-ext, the script asks which extractor you want to use, this means you can select a only one number to make your final number, thats i mean:
+Next, the script asks which extractor you want to use, this means you can select a only one number to make your final number, thats i mean:
