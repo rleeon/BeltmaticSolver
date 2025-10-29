@@ -16,7 +16,9 @@ Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, p
 
 # How To Use
 
-First we select the operations we can do:
+After finish, u get anything like (3+(3*(3+(3+(3*3))))) and u say WRF, if you dont jnow what u need give this operation to ChatGpt.
+
+
 
 # Requirements
 
