@@ -14,6 +14,10 @@ Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, p
 
 ![Foto3](PicsandGifs/Foto3.png)
 
+# How To Use
+
+First we select the operations we can do:
+
 # Requirements
 
 El script utiliza memoria RAM para almacenar datos de las operaciones, intente optimizar el uso de la RAM pero en la primera version no pude.
