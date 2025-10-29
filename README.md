@@ -12,7 +12,7 @@ Next, the script asks which extractor you want to use, this means you can select
 
 Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, por ejemplo "624", luego da una respuesta de el calculo que debes de hacer para ello.
 
-"FOTO"
+![Foto3](PicsandGifs/Foto3.png)
 
 # Requirements
 
