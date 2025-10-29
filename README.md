@@ -8,7 +8,7 @@ If you select a one number you need place a space between the other number like 
 
 Next, the script asks which extractor you want to use, this means you can select a only one number to make your final number, thats i mean:
 
-"FOTO"
+![Foto2](PicsandGifs/Foto2.png)
 
 Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, por ejemplo "624", luego da una respuesta de el calculo que debes de hacer para ello.
 
