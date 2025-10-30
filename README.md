@@ -24,9 +24,11 @@ Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, p
 
 # How To Use
 
-After finish, u get anything like ((1+(1+(1+(1+1))))*(1+((1+1)*(1+(1+1))))) and u say WTF, if you dont know what u need give this operation to ChatGpt.
+After finish, u get anything like (2*(2*(2+(2*(2+2))))) and u say WTF, if you dont know what u need give this operation to ChatGpt.
 
+![Foto5](PicsandGifs/Foto5.png)
 
+Next only go to the game, 
 
 # Requirements
 
