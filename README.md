@@ -1,3 +1,11 @@
+# Important
+
+First of all, don't use impossible numbers, for example, by adding and multiplying 3s you're not going to get a 34.
+
+First, unlock the subtractors and divisions to avoid these problems.
+
+Control-C to script if dont stop after 3-5s.
+
 # BeltmaticSolver
 
 This is simple, the script tells you to select which operations you want to perform, using numbers.
@@ -16,7 +24,7 @@ Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, p
 
 # How To Use
 
-After finish, u get anything like (3+(3*(3+(3+(3*3))))) and u say WRF, if you dont jnow what u need give this operation to ChatGpt.
+After finish, u get anything like ((1+(1+(1+(1+1))))*(1+((1+1)*(1+(1+1))))) and u say WTF, if you dont know what u need give this operation to ChatGpt.
 
 
 
