@@ -18,7 +18,7 @@ Next, the script asks which extractor you want to use, this means you can select
 
 ![Foto2](PicsandGifs/Foto2.png)
 
-Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, por ejemplo "624", luego da una respuesta de el calculo que debes de hacer para ello.
+Finally, it asks for the target number, the number you want to reach, for example "40", and then it gives you the calculation you need to perform to get there.
 
 ![Foto3](PicsandGifs/Foto3.png)
 
@@ -30,20 +30,20 @@ After finish, u get anything like (2*(2*(2+(2*(2+2))))) and u say WTF, if you do
 
 Next only go to the game, and take your extractor, next place belts and start the operations like this:
 
-![Gif1](GIF11.gif)
+![Gif1](PicsandGifs/GIF11.gif)
 
 # Requirements
 
-El script utiliza memoria RAM para almacenar datos de las operaciones, intente optimizar el uso de la RAM pero en la primera version no pude.
+The script uses RAM to store the data from the operations, I tried to optimize the RAM usage but in the first version I couldn’t.
 
-Contra mas alto sea el numero objetivo "el numero final" mayor sera el consumo de RAM "en el 99% de casos"
+The higher the target number "the final number", the more RAM it will use "like 99% of the time".
 
-Extractores de numeros como el "1 2 5 10" sin complicacion.
+Number extractors like "1 2 5 10", no problem.
 
-Extractores de numeros como el "7 8 9 11..." mayor dificultad de el calculo.
+Number extractors like "7 8 9 11..." more difficult to calculate.
 
-Numero fianl redondeado como el "10000" "100000" "10000000" aunque sea un numero grande no es un numero complejo.
+Rounded final numbers like "10000", "100000", "10000000", even if they are big, they are not complex numbers.
 
-Numero final complejos como "567287 987245 1236783" normalmente consume toda la ram, un "10%" de las veces consigue no consumira entera y conseguir el objetivo.
+Complex final numbers like "567287", "987245", "1236783", normally they eat all the RAM, maybe like "10%" of the time it gets lucky and doesn’t use it all and reaches the goal.
 
-En resumen, cuidados con numeros muy grandes y complejos, si se acaba la RAM podrias perder datos utiles, antes de que se acabe la RAM deten el script.
+So yeah, be careful with very big and complex numbers, if the RAM runs out you could lose useful data, better stop the script before that happens.
