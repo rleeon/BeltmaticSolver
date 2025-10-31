@@ -26,9 +26,11 @@ Por ultimo te pide el numero objetivo, que es el numero al que quieres llegar, p
 
 After finish, u get anything like (2*(2*(2+(2*(2+2))))) and u say WTF, if you dont know what u need give this operation to ChatGpt.
 
-![Foto5](PicsandGifs/Foto5.png)
+![Foto5](PicsandGifs/Foto5.png) ChatGPT Foto.
 
-Next only go to the game, 
+Next only go to the game, and take your extractor, next place belts and start the operations like this:
+
+![Gif1](GIF11.gif)
 
 # Requirements
 
