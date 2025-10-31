@@ -16,11 +16,11 @@ If you select a one number you need place a space between the other number like 
 
 Next, the script asks which extractor you want to use, this means you can select a only one number to make your final number, thats i mean:
 
-![Foto2](PicsandGifs/Foto2.png)
+![Foto2](PicsandGifs/Foto22.png)
 
 Finally, it asks for the target number, the number you want to reach, for example "40", and then it gives you the calculation you need to perform to get there.
 
-![Foto3](PicsandGifs/Foto3.png)
+![Foto3](PicsandGifs/Foto33.png)
 
 # How To Use
 
