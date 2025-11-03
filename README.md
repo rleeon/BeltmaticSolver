@@ -64,3 +64,5 @@ Rounded final numbers like "10000", "100000", "10000000", even if they are big, 
 Complex final numbers like "567287", "987245", "1236783", normally they eat all the RAM, maybe like "10%" of the time it gets lucky and doesn’t use it all and reaches the goal.
 
 So yeah, be careful with very big and complex numbers, if the RAM runs out you could lose useful data, better stop the script before that happens.
+
+But i added a 10 seconds timeout, after it the script stop with error.
