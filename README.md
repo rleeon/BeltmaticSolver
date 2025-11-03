@@ -8,7 +8,18 @@ Control-C to script if dont stop after 3-5s.
 
 Partially built using AI tools like Copilot, inside VSCode.
 
-# BeltmaticSolver
+# Install BeltmaticSolver
+
+What System u have?
+
+if system == "Linux":
+    chmod +x BeltmaticSolver
+    ./BeltmaticSolver
+
+else if system == "Windows":
+    Just double click the .exe file
+
+# Use BeltmaticSolver
 
 This is simple, the script tells you to select which operations you want to perform, using numbers.
 
