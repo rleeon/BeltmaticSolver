@@ -13,11 +13,15 @@ Partially built using AI tools like Copilot, inside VSCode.
 What System u have?
 
 if system == "Linux":
+   
     chmod +x BeltmaticSolver
+
+    
     ./BeltmaticSolver
 
 else if system == "Windows":
-    Just double click the .exe file
+
+   Just double click the .exe file
 
 # Use BeltmaticSolver
 
