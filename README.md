@@ -6,6 +6,8 @@ First, unlock the subtractors and divisions to avoid these problems.
 
 Control-C to script if dont stop after 3-5s.
 
+Partially built using AI tools like Copilot, inside VSCode.
+
 # BeltmaticSolver
 
 This is simple, the script tells you to select which operations you want to perform, using numbers.
