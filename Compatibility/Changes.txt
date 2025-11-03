@@ -1,0 +1,4 @@
+The only change in Windos is the final lines in "main":
+    import multiprocessing # ONLY IN WINDOWS
+    multiprocessing.freeze_support() # ONLY IN WINDOWS
+    input("\nPress ENTER to exit...") # ONLY IN WINDOWS
