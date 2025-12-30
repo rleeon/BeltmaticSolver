@@ -1,3 +1,4 @@
+![Foto4](PicsandGifs/I.png)
 # Important
 
 First of all, don't use impossible numbers, for example, by adding and multiplying 3s you're not going to get a 34.
